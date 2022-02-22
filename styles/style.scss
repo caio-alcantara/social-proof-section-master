@@ -1,0 +1,16 @@
+// Variables
+
+$very-dark-magenta: hsl(300, 43%, 22%);
+$soft-pink: hsl(333, 80%, 67%);
+$dark-grayish-magenta: hsl(302, 29%, 61%);
+$light-grayish-magenta: hsl(300, 24%, 96%);
+$white: hsl(0, 0%, 100%);
+
+$main-font: 'Spartan', sans-serif;
+
+// Imports 
+
+@import "general";
+@import "main-text";
+@import "star-reviews-block";
+@import "text-reviews-block";

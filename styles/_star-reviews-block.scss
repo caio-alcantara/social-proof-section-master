@@ -1,0 +1,28 @@
+.star-reviews-block {
+    padding-bottom: 35px;
+
+    .star-icons {
+        padding-bottom: 10px;
+
+        img {
+            margin-right: 4px;
+        }
+    }
+
+    .star-review {
+        display: flex;
+        flex-direction: column;
+        background-color: $light-grayish-magenta;
+        margin-bottom: 15px;
+        text-align: center;
+        padding: 15px 0px;
+        border-radius: 10px;
+
+        p {
+            font-size: 14px;
+            font-weight: 700;
+            color: $very-dark-magenta;
+
+        }
+    }
+}

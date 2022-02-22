@@ -1,0 +1,17 @@
+.main-text {
+    text-align: center;
+
+    h1 {
+        color: $very-dark-magenta;
+        padding-bottom: 25px;
+        line-height: 1em;
+    }
+
+    p {
+        font-size: 14px;
+        padding-bottom: 30px;    
+        line-height: 1.5em;
+        color: rgb(134, 134, 134);
+        font-weight: 500;
+    }
+}
