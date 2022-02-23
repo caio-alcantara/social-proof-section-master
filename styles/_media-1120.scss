@@ -1,0 +1,43 @@
+@media screen and (min-width: 1120px) {
+    .text-stars-container {
+        .main-text {
+            max-width: 30%;
+        
+            p {
+                width: 150%;
+            }
+        }
+
+        .star-reviews-block {
+            width: 50%;
+        }
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .text-stars-container {
+        .main-text {
+            max-width: 30%;
+
+            
+            p {
+                width: 140%;
+                font-size: 17px;
+            }
+        }
+    }
+
+    .text-reviews-block {
+        height: 300px;
+    }
+
+}
+
+@media screen and (min-width: 2000px) {
+    body {
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-items: center;
+    }
+}

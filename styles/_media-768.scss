@@ -1,0 +1,36 @@
+@media screen and (min-width: 768px) {
+
+    main {
+        padding: 100px 100px 40px 100px;
+    }
+
+    .text-stars-container {
+        flex-direction: row;
+        justify-content: space-between;
+
+
+        .main-text {
+            max-width: 50%;
+            text-align: left;
+        
+        }
+
+        .star-reviews-block {
+            width: 100%;
+
+            .star-review {
+                width: 80%;
+            }
+
+            .review-1 {
+                margin-right: auto;
+            }
+            .review-2 {
+                margin: 10px auto;
+            }
+            .review-3 {
+                margin-left: auto;
+            }
+        }
+    }
+}

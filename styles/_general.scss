@@ -6,9 +6,21 @@
 
 body {
     font-family: $main-font;
-    
+    background-image: 
+    url("../images/bg-pattern-top-mobile.svg");
+    background-position: 
+    top left;
+    background-repeat: no-repeat, no-repeat;
+    background-size: auto;
 }
 
 main {
     padding: 70px 25px 40px 25px;
+
+    max-width: 1440px;
+}
+
+.text-stars-container {
+    display: flex;
+    flex-direction: column;
 }

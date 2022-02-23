@@ -1,0 +1,36 @@
+@media screen and (min-width: 1024px) {
+    .text-stars-container {
+        .main-text {
+            max-width: 40%;
+        
+            h1 {
+                padding-bottom: 15px;
+                font-size: 2.7em;
+            }
+        }
+    }
+
+    .text-reviews-block {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 350px;
+        margin-bottom: 20px;
+        
+
+        .text-review {
+            width: 32%;
+            max-height: 280px;
+        }
+
+        .text-review-1 {
+            align-self: flex-start;
+        }
+        .text-review-2 {
+            align-self: center;
+        }
+        .text-review-3 {
+            align-self: flex-end;
+        }
+    }
+}
