@@ -196,6 +196,21 @@ main {
     -ms-flex-item-align: end;
         align-self: flex-end;
   }
+  .text-stars-container .star-review {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .text-stars-container .star-review .star-icons {
+    padding: 5px 20px;
+  }
 }
 
 @media screen and (min-width: 1120px) {

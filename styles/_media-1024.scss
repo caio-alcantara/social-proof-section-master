@@ -33,4 +33,16 @@
             align-self: flex-end;
         }
     }
+
+    .text-stars-container {
+        .star-review {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+            .star-icons {
+                padding: 5px 20px;
+            }
+        }
+    }
 }
