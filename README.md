@@ -22,8 +22,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://caio-alcantara.github.io/social-proof-section-master/
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-flexbox-and-mobilefirst-LBmVr9e6b
+- Live Site URL: https://caio-alcantara.github.io/social-proof-section-master/
 
 ## My process
 
